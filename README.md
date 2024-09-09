@@ -1,6 +1,6 @@
 Simple landing page for Daily Paper: 
 
-[!Alt logo](https://github.com/MohammedOmar3/dailypaperbrandpage/blob/main/public/images/image.png)
+![Alt logo](https://github.com/MohammedOmar3/dailypaperbrandpage/blob/main/public/images/image.png)
 
 # React + Vite
 
